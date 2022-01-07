@@ -1,0 +1,7 @@
+div{
+    width: 200px;
+    height: 100px;
+    background-color: cadetblue;
+    position: sticky;
+    top: 0px;
+}

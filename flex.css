@@ -1,0 +1,15 @@
+.row{
+    width: 50%;
+    height: 500px;
+    background-color: grey;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.col{
+    width: 100px;
+    height: 300px;
+    background-color: hotpink;
+    border: ivory 2px solid;
+}

@@ -1,0 +1,18 @@
+.parent{
+    border: black solid 2px;
+    width: 500px;
+    height: 200px;
+    background-color: aquamarine;
+    position: relative;
+}
+
+.child{
+    position: absolute;
+    margin-left: 100%;
+    width: 300px;
+    height: 100px;
+    background-color: orange;
+}
+body{
+    background-color: black;
+}
